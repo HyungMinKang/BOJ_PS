@@ -1,2 +1,1 @@
-# BOJ_PS
-Solution of  BOJ Problem 
+## Week1 Alogrithm 
